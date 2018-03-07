@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "node-gyp": "^3.6.2",
+    "npm": "^5.7.1",
     "rebuild": "^0.1.2",
     "solc": "^0.4.20",
     "testrpc": "0.0.1"
